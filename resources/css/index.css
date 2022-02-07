@@ -1,0 +1,31 @@
+.banner{
+  background-color: #EEEEEE;
+  color:#00ADB5;
+  margin-top: 75px;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.banner img {
+  height:100px;
+  width: 100px;
+}
+
+#sign-up{
+  background-color:#393E46;
+  text-align: center;
+
+}
+
+#sign-up span{
+  color:white;
+  font-size:56px;
+}
+
+#sign-up p{
+  color:#EEEEEE;
+}
+
+.bold{
+  font-weight: 900;
+}
